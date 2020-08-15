@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mailto:maksim.karunos@gmail.com]
 <br />
 
 
@@ -22,7 +22,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
-[gmail]: "mailto:maksim.karunos@gmail.com?subject=MessageTitle&amp;body=Message Content"
+
 
 ### Spotify: My Music Live 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
