@@ -6,9 +6,6 @@
 - 🥅 2020 Goals: Make it a year by data driven decisions
 - ⚡ I am open to internship as a Data Engineer, Data Engineer, or a Software Engineer 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -26,3 +23,5 @@
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
 
+### My Music Live 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
