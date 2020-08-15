@@ -1,10 +1,10 @@
 ### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
 
-- 🔭 I’m currently a senior at Pace University, New York City
-- 🌱 I’m currently learning Data Science and Data Engineering tools
+- 🔭 I’m currently a senior at Pace University, New York City pursing Computer Scince, B.S.
+- 🌱 I’m currently learning Data Science and Data Engineering tools at Datacamp and everywhere I can
 - 👯 I’m open to any project idea you might have
 - 🥅 2020 Goals: Make it a year by data driven decisions
-- ⚡ I am open to internship as a Data Engineer, Data Engineer, or a Software Engineer 
+- ⚡ I am open to internship as a Data Scientist, Data Engineer, or a Software Engineer 
 
 ### Connect with me:
 
@@ -14,7 +14,7 @@
 
 
 
-### 📕 My Most Popular Data Scince Notebook on Open Source Data
+### 📕 My Most Popular Data Scince Notebooks
 
 <!-- BLOG-POST-LIST:START -->
 - [How Popular is NSFW content Reddit?](https://www.kaggle.com/maksymkarunos/does-nsfw-content-hype-on-reddit)
