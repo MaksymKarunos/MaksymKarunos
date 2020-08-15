@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science and Data Engineering tools
 - 👯 I’m open to any project idea you might have
 - 🥅 2020 Goals: Make it a year by data driven decisions
-- ⚡ I am also looking for an internship as a Data Engineer, Data Engineer, or a Software Engineer 
+- ⚡ I am open to internship as a Data Engineer, Data Engineer, or a Software Engineer 
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=rEQGdKuKSM63VnPs1ejh7g)
