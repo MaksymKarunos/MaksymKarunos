@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -23,5 +23,5 @@
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
 
-### My Music Live 
+### Spotify: My Music Live 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
