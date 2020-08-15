@@ -7,11 +7,11 @@
 - ⚡ I am open to internship as a Data Engineer, Data Engineer, or a Software Engineer 
 
 ### Spotify Playing 🎧
-[<img src="https://api.spotify.com/v1/MaksymKarunos/player/currently-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/mkarunos/]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -23,4 +23,6 @@
 - [How Popular is NSFW content Reddit?](https://www.kaggle.com/maksymkarunos/does-nsfw-content-hype-on-reddit)
 <!-- BLOG-POST-LIST:END -->
 
+
+[linkedin]: https://www.linkedin.com/in/mkarunos/
 
