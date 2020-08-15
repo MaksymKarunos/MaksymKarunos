@@ -7,7 +7,7 @@
 - ⚡ I am open to internship as a Data Engineer, Data Engineer, or a Software Engineer 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
+[<img src="https://api.spotify.com/v1/me/player/currently-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
 
 ### Connect with me:
 
