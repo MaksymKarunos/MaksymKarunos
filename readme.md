@@ -23,11 +23,12 @@
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
 
-<<engine='python', engine.path='python3'>>=
+```<<engine='python', engine.path='python3'>>=
 a = 2
 b = 3
 print(a+b)
 @
+```
 
 ### Spotify: My Music Live 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
