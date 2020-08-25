@@ -18,8 +18,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How Popular is NSFW content Reddit?](https://www.kaggle.com/maksymkarunos/does-nsfw-content-hype-on-reddit)
+- [Exploratory Data Analysis on Super Bowl Data](https://github.com/MaksymKarunos/Data-Analysis-on-Super-Bowl-Data/blob/master/notebook.ipynb)
+- [Telling a Story with Data: History of Programming Language Scala](https://github.com/MaksymKarunos/GitHubHistoryofScala/blob/master/notebook.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
+### 📕 My Machine Learning Project
+
+<!-- BLOG-POST-LIST:START -->
+- [Using Machine Learning to Assigning Difficulty Level to a Nonogram Puzzle](https://github.com/MaksymKarunos/NonogramSolver)
+<!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
 
