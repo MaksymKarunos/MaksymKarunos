@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a senior at Pace University, New York City pursing Computer Scince, B.S.
 - 🌱 I’m currently learning Data Science and Data Engineering tools at Datacamp and everywhere I can
-- 👯 I’m open to any project idea you might have
+- 👯 I’m open to any project ideas you might have
 - 🥅 2020 Goals: Make it a year by data driven decisions
 - ⚡ I am open to internship as a Data Scientist, Data Engineer, or a Software Engineer 
 
