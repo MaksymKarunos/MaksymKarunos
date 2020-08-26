@@ -21,6 +21,7 @@
 - [Exploratory Data Analysis on Super Bowl Data](https://github.com/MaksymKarunos/Data-Analysis-on-Super-Bowl-Data/blob/master/notebook.ipynb)
 - [Telling a Story with Data: History of Programming Language Scala](https://github.com/MaksymKarunos/GitHubHistoryofScala/blob/master/notebook.ipynb)
 <!-- BLOG-POST-LIST:END -->
+
 ### 📕 My Software Engineering Projects
 
 <!-- BLOG-POST-LIST:START -->
