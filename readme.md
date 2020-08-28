@@ -1,9 +1,9 @@
 ### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
 
-- 🔭 I’m currently a senior at Pace University, New York City pursing Computer Scince, B.S.
-- 🌱 I’m currently learning Data Science and Data Engineering tools at Datacamp and everywhere I can
+- 🔭 I’m currently a senior at Pace University, New York City pursing degree in Computer Scince, B.S.
+- 🌱 I’m currently learning Data Science and Data Engineering
 - 👯 I’m open to any project ideas you might have
-- 🥅 2020 Goals: Make it a year by data driven decisions
+- 🥅 2020 Goals: Make it a year of data driven decisions
 - ⚡ I am open to internship as a Data Scientist, Data Engineer, or a Software Engineer 
 
 ### Connect with me:
