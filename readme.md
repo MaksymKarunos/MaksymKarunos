@@ -1,3 +1,7 @@
+<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/Python-31%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/JavaScript-25%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
 
 - 🔭 I’m currently a senior at Pace University, New York City pursing degree in Computer Scince, B.S.
