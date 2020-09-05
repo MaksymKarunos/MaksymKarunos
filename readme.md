@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 👯 I’m open to any project ideas you might have
 - 🥅 2020 Goals: Make it a year of data driven decisions
-- ⚡ I am open to internship as a Data Scientist, Data Engineer, or a Software Engineer 
+- ⚡ I am open to Data Science, Data Engineering, or a Software Engineering roles 
 
 ### Connect with me:
 
