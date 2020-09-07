@@ -35,6 +35,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+### 📕 My Open Source Contributions
+
+<!-- BLOG-POST-LIST:START -->
+- [OpenDota - analytical dashboard](https://github.com/odota/web)
+<!-- BLOG-POST-LIST:END --
+
 
 [linkedin]: https://www.linkedin.com/in/mkarunos/
 
