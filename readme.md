@@ -42,7 +42,7 @@
 <!-- BLOG-POST-LIST:END -- >
 
 
-[linkedin]: https://www.linkedin.com/in/mkarunos/
-
 ### Spotify: My Music Live 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MaksymKarunos Spotify Playing" width="350" />](https://open.spotify.com/user/31jznq5cnfhfuaqbwwbkho2xlgna?si=ovGF5mqKRG6QK2QzWyYygw)
+
+[linkedin]: https://www.linkedin.com/in/mkarunos/
