@@ -26,11 +26,6 @@
 - [Telling a Story with Data: History of Programming Language Scala](https://github.com/MaksymKarunos/GitHubHistoryofScala/blob/master/notebook.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
-### 📕 My Software Engineering Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [ETL Data Pipline: Exploring and Analyzing data from Spotify APIs](https://github.com/MaksymKarunos/Spotify-Me-)
-<!-- BLOG-POST-LIST:END --
 
 
 ### 📕 My Machine Learning Projects
