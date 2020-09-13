@@ -4,7 +4,7 @@
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
 
-- 🔭 I’m currently a senior at Pace University, New York City pursing degree in Computer Scince, B.S.
+- 🔭 I’m currently a senior at Pace University, New York City pursing degree in Computer Science, B.S.
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 👯 I’m open to any project ideas you might have
 - 🥅 2020 Goals: Make it a year of data driven decisions
