@@ -16,18 +16,6 @@
 <br />
 
 
-### 📕 My Open Source Contributions
-
-<!-- BLOG-POST-LIST:START -->
-- [Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
-- [OpenDota - analytical dashboard](https://github.com/odota/web)
-<!-- BLOG-POST-LIST:END -- >
-
-
-
-
-
-
 ### 📕 My Most Popular Data Science Notebooks
 
 <!-- BLOG-POST-LIST:START -->
@@ -35,6 +23,13 @@
 - [Exploratory Data Analysis on Super Bowl Data](https://github.com/MaksymKarunos/Data-Analysis-on-Super-Bowl-Data/blob/master/notebook.ipynb)
 - [Telling a Story with Data: History of Programming Language Scala](https://github.com/MaksymKarunos/GitHubHistoryofScala/blob/master/notebook.ipynb)
 <!-- BLOG-POST-LIST:END -->
+
+### 📕 My Open Source Contributions
+
+<!-- BLOG-POST-LIST:START -->
+- [Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
+- [OpenDota - analytical dashboard](https://github.com/odota/web)
+<!-- BLOG-POST-LIST:END -- >
 
 
 
