@@ -4,11 +4,11 @@
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
 
-- 🔭 I’m currently a senior at Pace University, New York City pursing degree in Computer Science, B.S.
+- 🔭 I’m currently a senior at Pace University, New York City pursuing a degree in Computer Science, B.S.
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 👯 I’m open to any project ideas you might have
-- 🥅 2020 Goals: Make it a year of data driven decisions
-- ⚡ I am open to Data Science, Data Engineering, or a Software Engineering roles 
+- 🥅 2020 Goals: Make it a year of data-driven decisions
+- ⚡ I am open to Data Science, Data Engineering, or Software Engineering roles 
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 
 
 
-### 📕 My Most Popular Data Scince Notebooks
+### 📕 My Most Popular Data Science Notebooks
 
 <!-- BLOG-POST-LIST:START -->
 - [How Popular is NSFW content Reddit?](https://www.kaggle.com/maksymkarunos/does-nsfw-content-hype-on-reddit)
