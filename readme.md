@@ -19,10 +19,9 @@
 ### 📕 My Open Source Contributions
 
 <!-- BLOG-POST-LIST:START -->
-- [(Co-Author) Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
+- [Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
 - [OpenDota - analytical dashboard](https://github.com/odota/web)
 <!-- BLOG-POST-LIST:END -- >
-
 
 
 ### 📕 My Most Popular Data Science Notebooks
