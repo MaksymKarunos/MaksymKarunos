@@ -20,12 +20,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [(Co-Author) Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
-<!-- BLOG-POST-LIST:END -- >
-
-<!-- BLOG-POST-LIST:START -->
 - [OpenDota - analytical dashboard](https://github.com/odota/web)
 <!-- BLOG-POST-LIST:END -- >
-
 
 
 
