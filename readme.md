@@ -2,13 +2,12 @@
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/JavaScript-25%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
-### Hi there, I'm Max! I am passionate about Data Science and Software Engineering
+### Hi there, I'm Max! I am passionate about Software Engineering and Data Science
 
-- 🔭 I’m currently a senior at Pace University, New York City pursuing a degree in Computer Science, B.S.
-- 🌱 I’m currently learning Data Science and Data Engineering
-- 👯 I’m open to any project ideas you might have
-- 🥅 2020 Goals: Make it a year of data-driven decisions
-- ⚡ I am open to Data Science, Data Engineering, or Software Engineering roles 
+- 🔭 I’m currently on track to graduate in May 2020 from Pace University, New York City with a degree in Computer Science, B.S.
+- 🌱 I’m currently wokring on Zenora, a python modern wrapper for Discord REST API
+- 🥅 2020 Goals: Make Zenora one of the leading frameworks for development Discord Bots
+- ⚡ I am open to Software Engineering or Data Science roles 
 
 ### Connect with me:
 
@@ -16,6 +15,16 @@
 [<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maksim.karunos@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 <br />
 
+
+### 📕 My Open Source Contributions
+
+<!-- BLOG-POST-LIST:START -->
+- [(Co-Author) Zenora - Python Wrapper for Discord REST APIs](https://github.com/odota/web)
+<!-- BLOG-POST-LIST:END -- >
+
+<!-- BLOG-POST-LIST:START -->
+- [OpenDota - analytical dashboard](https://github.com/odota/web)
+<!-- BLOG-POST-LIST:END -- >
 
 
 ### 📕 My Most Popular Data Science Notebooks
@@ -27,19 +36,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
-### 📕 My Machine Learning Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Using Machine Learning to Assigning Difficulty Level to a Nonogram Puzzle](https://github.com/MaksymKarunos/NonogramSolver)
-<!-- BLOG-POST-LIST:END -->
-
-
-### 📕 My Open Source Contributions
-
-<!-- BLOG-POST-LIST:START -->
-- [OpenDota - analytical dashboard](https://github.com/odota/web)
-<!-- BLOG-POST-LIST:END -- >
 
 
 ### Spotify: My Music Live 
