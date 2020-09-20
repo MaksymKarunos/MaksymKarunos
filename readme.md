@@ -6,8 +6,8 @@
 
 - 🔭 I’m graduating in May 2020 from Pace University, New York City with a degree in Computer Science, B.S.
 - 🌱 I’m a Co-Author of Zenora, an open-source python modern wrapper for Discord REST API
-- 🥅 2020 Goals: Make Zenora one of the leading frameworks for development Discord Bots
-- ⚡ I am open to Software Engineering or Data Science opportunities 
+- 🥅 2020 Goals: Make Zenora one of the leading frameworks for development Discord bot development  
+- ⚡ I am open to Software Engineering and Data Science opportunities 
 
 ### Connect with me:
 
