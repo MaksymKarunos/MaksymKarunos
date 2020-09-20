@@ -19,7 +19,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [(Co-Autor) Zenora - Python Wrapper for Discord REST APIs](https://github.com/MaksymKarunos/zenora)
-- [OpenDota - analytical dashboard](https://github.com/odota/web)
+- [OpenDota - Analytical Dashboard for Dota2 Professional Players](https://github.com/odota/web)
 <!-- BLOG-POST-LIST:END -->
 
 
