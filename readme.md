@@ -6,7 +6,7 @@
 ### Hi there, I'm Max! I am a Full Stack Software Engineering
 ### My tech stack: MongoDB, Express, React and Node.js (MERN), Python/Django, Django REST 
 - 🔭 I’m graduating in May 2021 from Pace University, New York City with a degree in Computer Science, B.S.
-- 🌱 I’m a Co-Author of Zenora, an open-source python modern wrapper for Discord REST API
+- 🌱 I’m a Co-Author of Zenora, an open-source python wrapper for Discord REST API
 - 🥅 2020 Goals: Make Zenora one of the leading frameworks for Discord bot development  
 - ⚡ I am open to Software Engineering and Data Science opportunities 
 
