@@ -3,7 +3,7 @@
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=MaksymKarunos&color=green)
-### Hi there, I'm Max! I am a Full Stack Software Engineering
+### Hi there, I'm Max! I am a Software Engineering located in New York City
 ### My tech stack: MongoDB, Express, React and Node.js (MERN), Python/Django, Django REST 
 - 🔭 I’m graduating in May 2021 from Pace University, New York City with a degree in Computer Science, B.S.
 - 🌱 I’m a Co-Author of Zenora, an open-source python wrapper for Discord REST API.
