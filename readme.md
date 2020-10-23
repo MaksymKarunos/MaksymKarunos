@@ -24,7 +24,7 @@
 
 
 
-### 📕 My Most Popular Data Science Notebooks
+### 📕 My Data Science Notebooks
 
 <!-- BLOG-POST-LIST:START -->
 - [How Popular is NSFW content Reddit?](https://www.kaggle.com/maksymkarunos/does-nsfw-content-hype-on-reddit)
