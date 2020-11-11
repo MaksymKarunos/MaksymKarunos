@@ -7,7 +7,7 @@
 - 🔭 Checkout my Discord chatbot for your community. Trusted by 7000+ users! [shikamaru.xyz](https://shikamaru.xyz/)
 - 🔭 I’m graduating in May 2021 from Pace University, New York City with a degree in Computer Science, B.S.
 - 🌱 I’m a co-author of Zenora, an open-source python wrapper for Discord REST API  
-- ⚡ I am open to Software Engineering and Data Engineering opportunities  
+- ⚡ I am open to Software Engineering and Data Engineering opportunities   
 
 ### Connect with me:
 
