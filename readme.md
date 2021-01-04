@@ -3,7 +3,7 @@
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=MaksymKarunos&color=green)  
-### I'm Max! I am a Software Engineer located in New York City  
+### I'm Max! I am a Software Engineer located in New York City   
 - 🔭 Checkout my Discord chatbot for your community. Trusted by 11000+ users! [shikamaru.xyz](https://shikamaru.xyz/)
 - 🔭 I’m graduating in May 2021 from Pace University, New York City with a degree in Computer Science, B.S.
 - 🌱 I’m a co-author of Zenora, an open-source python wrapper for Discord REST API    
