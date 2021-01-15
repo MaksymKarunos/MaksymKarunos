@@ -8,7 +8,7 @@
 - 🔭 I’m graduating in May 2021 from Pace University, New York City with a degree in Computer Science, B.S.
 - 🌱 I’m a co-author of Zenora, an open-source python wrapper for Discord REST API    
 - ⚡ I am open to Software Engineering and Data Engineering opportunities                    
-      
+       
 ### Connect with me:   
   
 [<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mkarunos/) 
