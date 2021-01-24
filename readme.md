@@ -13,7 +13,7 @@
    
 [<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mkarunos/) 
 [<img align="left" alt="maksymKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:maksim.karunos@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-<br />
+<br /> 
   
 ### 📕 My Open Source Contributions
 
